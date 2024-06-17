@@ -1,5 +1,6 @@
 package com.example.demo.domain.board.entity;
 
+import com.example.demo.domain.board.dto.response.BoardSaveResponseDto;
 import com.example.demo.domain.common.BaseEntity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
